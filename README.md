@@ -4,7 +4,7 @@ This project guides you through end-to-end AI agent development using Google's A
 ## Project Preview
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_banners/Gemini_Generated_Image_nfnzc5nfnzc5nfnz.jpg"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_banners/Gemini_Generated_Image_nfnzc5nfnzc5nfnz.jpg"
        alt="Project Preview"
        width="600" />
 </p>
@@ -12,7 +12,7 @@ This project guides you through end-to-end AI agent development using Google's A
 ## System Architecture
 
 <p align="center">
-  <img src="https://backend.krishnaik.in/media/project_architecture_diagrams/Screenshot_2026-01-19_at_11.05.09PM.png"
+  <img src="https://d14omfvx1qlabb.cloudfront.net/krishnaik.in/media/project_architecture_diagrams/Screenshot_2026-01-19_at_11.05.09PM.png"
        alt="System Architecture"
        width="600" />
 </p>
